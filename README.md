@@ -24,25 +24,23 @@ Setiap solusi diimplementasikan menggunakan **Stored Procedure**. Hal ini dilaku
 ## 4. Cara Menjalankan
 Ikuti langkah-langkah berikut untuk menjalankan kode di MySQL Client (seperti CMD, HeidiSQL, atau DBeaver):
 
-
 1. **Masuk ke database:**
    ```sql
    USE tugas4;
 CALL tampilkan_1_sampai_10();
 
 2. **Panggil prosedur sesuai nomor tugas yang ingin dilihat hasilnya:**
--- 1
+-- Tugas 1
 CALL tampilkan_1_sampai_10();
 
--- 2
+-- Tugas 2
 CALL hitung_total_1_sampai_20();
 
--- 3
+-- Tugas 3
 CALL genap_2_sampai_20();
 
--- 4
+-- Tugas 4
 CALL hitung_belanja();
-
 
 ---
 
