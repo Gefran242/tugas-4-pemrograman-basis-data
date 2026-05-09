@@ -30,7 +30,7 @@ Ikuti langkah-langkah berikut untuk menjalankan kode di MySQL Client (seperti CM
    USE tugas4;
 CALL tampilkan_1_sampai_10();
 
-2. Panggil prosedur sesuai nomor tugas yang ingin dilihat hasilnya
+2. **Panggil prosedur sesuai nomor tugas yang ingin dilihat hasilnya:**
 -- 1
 CALL tampilkan_1_sampai_10();
 
